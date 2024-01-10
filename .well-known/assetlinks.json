@@ -4,7 +4,7 @@
         "target": {
             "namespace": "android_app",
             "package_name": "com.example.deep_link_test",
-            "sha256_cert_fingerprints": ["0F:06:B2:B9:1F:14:D4:84:21:73:E0:67:A1:C3:A5:A8:15:6F:D3:42:04:45:C6:46:53:57:2B:75:BA:6D:9A:11"]
+            "sha256_cert_fingerprints": ["DB:33:43:2C:A5:C6:21:4D:17:F4:82:76:4D:3C:0C:CB:08:7A:FB:E2:4D:7C:96:F6:6B:E0:8F:3D:6E:89:C0:3A"]
         }
     }
 ]
