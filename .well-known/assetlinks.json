@@ -3,8 +3,8 @@
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.jainam.smartdelta",
-            "sha256_cert_fingerprints": ["8E:88:7B:B8:C8:6B:EB:FC:75:E7:15:25:E1:4E:28:B7:84:9F:45:96:C0:0C:E7:F8:97:99:2F:6C:BB:38:57:B8"]
+            "package_name": "com.example.deep_link_test",
+            "sha256_cert_fingerprints": ["0F:06:B2:B9:1F:14:D4:84:21:73:E0:67:A1:C3:A5:A8:15:6F:D3:42:04:45:C6:46:53:57:2B:75:BA:6D:9A:11"]
         }
     }
 ]
